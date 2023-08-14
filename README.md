@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CyberTooth2009
-- 👀 I’m interested in Dogs, Minecraft, Computers, Linux, Science, Math and Quantum Computing. 
+- 👀 I like Dogs, Minecraft, Computers, Linux, Science, Math and Quantum Computing. 
 - 🌱 I’m currently learning Python/Code in general
 - 📫 How to reach me: this account I guess. 
 
